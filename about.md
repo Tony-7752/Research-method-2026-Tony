@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I am masters student at the department of Marine Biology at Haifa university, studying microbial interactions at deep sea cold seep at the lab of proffesor Maxim Rubin-Blum 
+I am masters student at the department of Marine Biology at Haifa university, studying microbial interactions at deep sea cold seeps at the lab of proffesor Maxim Rubin-Blum 
  
 
 ### More Information
 
-https://github.com/Tony-7752
+[GitHub](https://github.com/Tony-7752)
+
+[LinkedIn](https://www.linkedin.com/in/tony-tendler/)
 
 ### Contact me
 
@@ -24,7 +26,7 @@ https://github.com/Tony-7752
 
 ### EDUCATION
 2025- | **University of Haifa , Haifa**  
-	- Master degree under the guidance of Maxim Rubin-Blum. Researching microbial interactions at cold seeps focusing on Metagenomic analysis.  
+	- Master degree under the guidance of Maxim Rubin-Blum. Researching microbial interactions at cold seeps using metagenomic analysis.  
 	
 		  
 2019-2024 | **Technion - Israel Institute of Technology , Haifa**   
@@ -44,31 +46,18 @@ https://github.com/Tony-7752
 
 
 
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-- Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
+### Millitary Service
+2016-2018 | **Combat medic and infirmary manager , IDF - Artillery Corps**
+		- An 8 month training period as an artillery soldier,  followed by a 4 month combat medic course. Later in service promoted to battalion infirmary manager responsible for medical logistics. In active reserve service. 
 	   
-### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
+### Skills
+-  **Chemical Lab Experience** - Practical experience as a research assistant in organic and electrochemical labs. Proficient with electroplating systems and spectroscopy methods (UV-VIS, FTIR), with foundational knowledge of SEM and XRD.
+- **Biological Lab Experience** - DNA extraction from environmental samples (including soil and marine sediments); PCR amplification.
+- **Bioinformatics & Data Analysis** - Experienced with Unix/Linux command-line environments. Utilizing QIIME 2 and DADA2 pipelines for 16S/18S microbiome analysis.
+- **Additional Applications & Programs** - Experienced with CAM software (CAM350, ViewMate). Familiar with SPSS, MATLAB, UniSim, Python, and Origin. Highly skilled in the Microsoft Office Suite.
 
-### TEACHING AND EDUCATION
-- Université de Lorraine 
-	- Coral Reef Informational Presentations to Bachelor students   
-	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   
-
-### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
-	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
-
-### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – French Boating License for Coastal Waters
-- Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
-
+### Languages
+- Hebrew - Native speaker.
+- English - Bilingual proficiency.
+- Russian - Professional working proficiency
 
