@@ -15,7 +15,11 @@ This protocol outlines a basic 16S microbiome pipeline I am doing for my researc
 
 To import files into a format QIIME2 can read, we need to use the import function:
 ```bash
-qiime tools import --type 'SampleData[PairedEndSequencesWithQuality]'  --input-path manifest.csv  --output-path demux-paired-end.qza  --input-format PairedEndFastqManifestPhred33V2
+qiime tools import \
+  --type 'SampleData[PairedEndSequencesWithQuality]' \
+  --input-path manifest.csv \
+  --output-path demux-paired-end.qza \
+  --input-format PairedEndFastqManifestPhred33V2
 ```
 This command takes your manifest file (which contains the locations of all the paired-end FASTQ files) and transforms them into a QIIME2 artifact called `demux-paired-end.qza`. 
 
@@ -117,7 +121,8 @@ qiime tools export \
   --input-path taxonomy.qza \
   --output-path ./phyloseq
   ```
-  ### References and useful links
+  
+### References and useful links
 
   * [QIIME 2 Amplicon Analysis Documentation](https://amplicon-docs.qiime2.org/) - The main platform for this analysis.
 * [DADA2 Pipeline Official Documentation](https://benjjneb.github.io/dada2/) - The de-noising pipeline (a QIIME2 plug-in).
