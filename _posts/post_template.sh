@@ -50,4 +50,4 @@ nano "$NEW_MD_FILE"
 # Use git to stage, commit, and push NEW_MD_FILE to GitHub
 git add "$NEW_MD_FILE"
 git commit -m "created new post: $NEW_MD_FILE"
-git push origin master
+git push origin main
