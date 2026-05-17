@@ -14,6 +14,7 @@ This protocol outlines a basic 16S microbiome pipeline I am doing for my researc
 ### 1. <u>Importing files into QIIME2</u>
 
 To import files into a format QIIME2 can read, we need to use the import function:
+
 ```bash
 qiime tools import \
   --type 'SampleData[PairedEndSequencesWithQuality]' \
@@ -21,11 +22,13 @@ qiime tools import \
   --output-path demux-paired-end.qza \
   --input-format PairedEndFastqManifestPhred33V2
 ```
+
 This command takes your manifest file (which contains the locations of all the paired-end FASTQ files) and transforms them into a QIIME2 artifact called `demux-paired-end.qza`. 
 
 ```bash
 qiime demux summarize --i-data demux-paired-end.qza --o-visualization demux.qzv
 ```
+
 This will produce a visualization of the raw data.
 
 ### 2. <u>Removing PCR primers</u>
