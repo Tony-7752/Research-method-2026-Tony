@@ -21,4 +21,26 @@ Figure 1: qPCR cycle
 ### 2. <u>Selecting a reference gene</u>
 For the reference gene, also known as housekeeping gene, we want to select a gene that is not altered by the treatment we will subject the target genes to. So for every treatment we do we might  need to select different references. We will use this gene to normalise our results and to see how has the expression changed in our target genes.
 
-For this portocl, we will be looking into *Prochlorococcus* and how do some of its genes change expression in a nitrogen limited environment.
+For this protocol, we will be looking into *Prochlorococcus* and how do some of its genes change expression in a phosphorus limited environment.
+
+![Prochlorococcus_marinus_2.jpeg](https://tony-7752.github.io/Research-method-2026-Tony/images/Prochlorococcus_marinus_2.jpeg)
+
+Figure 2: *Prochlorococcus marinus, Ohio state university*
+
+We will want to select a gene not affected by the phosphorus limited environment, so preferably a gene involved in fundamental cell functions, one that it cannot survive without and will not be down or up regulated during the treatment.
+
+Our gene of choise is: *secA*
+
+This gene has a central role in coupling the hydrolysis of ATP to the transfer of proteins into and across the cell membrane. It also probably participates in protein translocation into and across both the cytoplasmic and thylakoid membranes in cyanobacterial cells.
+
+This is a central gene to the normal function of cyanobacterial cells, which we expect will not change its expression rate when subject to P-limited conditions.
+
+### 3. <u>Selecting target genes</u>
+The treatment we have decided to subject the cells to is P-limitation. We will select target genes who we expect to see a change in their expression.
+
+The first target genes: *pstS*
+
+This gene encodes a high-affinity phosphate-binding protein located at the cell membrane. It is basically a phosphorus "sensor", which we expect to be *upregulated* during phosphorus limited conditions, as the cell desperately struggles to find more phosphorus.
+
+The second target gene: *sqdB*
+
