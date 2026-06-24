@@ -5,6 +5,18 @@ date: '2026-06-23'
 categories: Protocols
 tags: Photosynthesis R 
 ---
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
 ### 23/06/2026
 # Research methods course assignment
 ### *Analysis of algae samples PAM (Pulse-Amplitude Modulation) fluorometry data*
