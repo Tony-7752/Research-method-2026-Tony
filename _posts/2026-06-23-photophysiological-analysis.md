@@ -141,6 +141,8 @@ To improve the course and this assignment, it is advised to create a short proto
 
 [R script](https://tony-7752.github.io/Research-method-2026-Tony/images/R-assignment.R)
 
+[Metadata](https://tony-7752.github.io/Research-method-2026-Tony/images/Photophysiology_metadata.csv)
+
 ## References
 
 1. [Boardman, N. K. (1977). Comparative photosynthesis of sun and shade plants. *Annual Review of Plant Physiology*, 28(1), 355-377.](https://doi.org/10.1146/annurev.pp.28.060177.002035)
